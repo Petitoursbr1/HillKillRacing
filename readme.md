@@ -1,5 +1,8 @@
 # HillKillRacing - Mod Menu pour Hill Climb Racing 🚗💨
 
+
+![Banner](banner.png)
+
 **Version :** 1.0.0  
 **Développeur :** OufRob89 & PetitOursBr1
 
