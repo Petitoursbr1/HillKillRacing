@@ -37,7 +37,7 @@ Bienvenue dans **HillKillRacing** 🎮, un mod menu personnalisé conçu pour am
 
 ## Compatibilité
 
-- **Plateformes supportées :** Windows 🖥️🖥
+- **Plateformes supportées :** Windows 🖥️
 - **Version du jeu supportée :** Toutes les versions de HillClimbRacing
 - **Root requis :** Non ❌
 
