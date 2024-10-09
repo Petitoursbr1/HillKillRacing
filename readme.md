@@ -12,22 +12,24 @@ Bienvenue dans **HillKillRacing** 🎮, un mod menu personnalisé conçu pour am
 
 ## Fonctionnalités
 
-- **💰 Pièces Illimitées** : Plus besoin de mettre des smic dans le jeu !
-- **💎 Gemmes Illimitées** : Ne te soucie plus jamais de manquer de Gemmes !
-- **🚗 Tous les véhicules débloqués** : Accès instantané à tous les véhicules sans avoir besoin de faire des heures de jeu.
-- **🛣️ Tous les circuits débloqués** : Découvre tous les circuits disponibles dès le début.
-- **🦸‍♂️ Mode Invincible** : Plus jamais d'accidents, même avec les cascades les plus folles !
-- **⛽ Essence Infinie** : Ajuste la gravité pour des expériences de jeu totalement inédites.
-- **🏎️ Boost de Vitesse** : Traverse les niveaux à toute allure avec un boost de vitesse personnalisable.
-- **🌍 Modificateur de Gravité** : Ajuste la gravité pour des expériences de jeu totalement inédites.
-- **🚫 Pas de Publicités** : Profite d'une expérience sans interruption avec zéro pub.
+- [x] **💰 Pièces Illimitées** : Plus besoin de mettre des smic dans le jeu !
+- [x] **💎 Gemmes Illimitées** : Ne te soucie plus jamais de manquer de Gemmes !
+- [x] **🚗 Tous les véhicules débloqués** : Accès instantané à tous les véhicules sans avoir besoin de faire des heures de jeu.
+- [x] **🛣️ Tous les circuits débloqués** : Découvre tous les circuits disponibles dès le début.
+- [x] **🚫 Pas de Publicités** : Profite d'une expérience sans interruption avec zéro pub.
+- [ ] **🦸‍♂️ Mode Invincible** : Plus jamais d'accidents, même avec les cascades les plus folles !
+- [ ] **⛽ Essence Infinie** : Ajuste la gravité pour des expériences de jeu totalement inédites.
+- [ ] **🏎️ Boost de Vitesse** : Traverse les niveaux à toute allure avec un boost de vitesse personnalisable.
+- [ ] **🌍 Modificateur de Gravité** : Ajuste la gravité pour des expériences de jeu totalement inédites.
+
 
 ## Installation
 
 1. **Télécharge** la dernière version de HillKillRacing depuis [ce lien](#).
 2. **Lance** le jeu et profite du mod menu externe !
 
-> **Note :** Assure-toi de désactiver les mises à jour automatiques de Hill Climb Racing pour éviter que le mod ne fonctionne plus.
+> [!TIP] 
+> Assure-toi de désactiver les mises à jour automatiques de Hill Climb Racing pour éviter que le mod ne fonctionne plus.
 
 ## Instructions d'utilisation
 
