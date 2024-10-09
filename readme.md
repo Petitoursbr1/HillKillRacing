@@ -12,8 +12,8 @@ Bienvenue dans **HillKillRacing** 🎮, un mod menu personnalisé conçu pour am
 
 ## Fonctionnalités
 
-- **💰 Pièces Illimitées** : Ne te soucie plus jamais de manquer de monnaie !
-- **💎 Gemmes Illimitées** : Ne te soucie plus jamais de manquer de monnaie !
+- **💰 Pièces Illimitées** : Plus besoin de mettre des smic dans le jeu !
+- **💎 Gemmes Illimitées** : Ne te soucie plus jamais de manquer de Gemmes !
 - **🚗 Tous les véhicules débloqués** : Accès instantané à tous les véhicules sans avoir besoin de faire des heures de jeu.
 - **🛣️ Tous les circuits débloqués** : Découvre tous les circuits disponibles dès le début.
 - **🦸‍♂️ Mode Invincible** : Plus jamais d'accidents, même avec les cascades les plus folles !
@@ -37,7 +37,7 @@ Bienvenue dans **HillKillRacing** 🎮, un mod menu personnalisé conçu pour am
 
 ## Compatibilité
 
-- **Plateformes supportées :** Windows 📱
+- **Plateformes supportées :** Windows 🖥️🖥
 - **Version du jeu supportée :** Toutes les versions de HillClimbRacing
 - **Root requis :** Non ❌
 
