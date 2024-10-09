@@ -17,7 +17,7 @@ Bienvenue dans **HillKillRacing** 🎮, un mod menu personnalisé conçu pour am
 - **🚗 Tous les véhicules débloqués** : Accès instantané à tous les véhicules sans avoir besoin de faire des heures de jeu.
 - **🛣️ Tous les circuits débloqués** : Découvre tous les circuits disponibles dès le début.
 - **🦸‍♂️ Mode Invincible** : Plus jamais d'accidents, même avec les cascades les plus folles !
-- **⛽ Esscence Infinie** : Ajuste la gravité pour des expériences de jeu totalement inédites.
+- **⛽ Essence Infinie** : Ajuste la gravité pour des expériences de jeu totalement inédites.
 - **🏎️ Boost de Vitesse** : Traverse les niveaux à toute allure avec un boost de vitesse personnalisable.
 - **🌍 Modificateur de Gravité** : Ajuste la gravité pour des expériences de jeu totalement inédites.
 - **🚫 Pas de Publicités** : Profite d'une expérience sans interruption avec zéro pub.
